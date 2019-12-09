@@ -20,6 +20,9 @@
 #Open a terminal and change directory to the location of the project
 #Run the following commands to start the web application
 
+#Install dependencies
+composer install
+
 #Install JS dependencies
 npm install
 
